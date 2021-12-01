@@ -31,7 +31,7 @@ b=c
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![1st](https://user-images.githubusercontent.com/93427017/144177822-a81407e5-f356-48cb-9bdd-067f90690c40.PNG)
+![](1st.PNG)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
